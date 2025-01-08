@@ -1,0 +1,811 @@
+walkingData,heartRate,respiratoryRate,bloodPressure,calories,sleepQuality,temperature,ecgInformation,Disease
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Cardiovascular Disease
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Cardiovascular Disease
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hyperthyroidism
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Hypertension
+9300,81,15,125/82,380,7,36,Normal,Respiratory Disorder
+8400,77,14,132/85,360,8,37,Abnormal,Hypertension
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hyperthyroidism
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7400,71,15,130/86,310,7,37,Normal,Hyperthyroidism
+8900,82,14,125/80,360,8,37,Normal,Hyperthyroidism
+9500,87,16,122/78,390,8,37,Normal,Respiratory Disorder
+9200,80,15,128/84,350,8,37,Abnormal,Cardiovascular Disease
+8300,76,14,132/86,340,7,37,Normal,Hyperthyroidism
+9100,79,15,130/85,380,8,37,Normal,Hyperthyroidism
+7900,74,14,125/82,320,7,37,Normal,Hyperthyroidism
+8600,83,16,118/76,370,8,37,Abnormal,Diabetes
+7300,72,15,135/88,310,7,37,Abnormal,Hypertension
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Cardiovascular Disease
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Cardiovascular Disease
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hypertension
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Hypertension
+9300,81,15,125/82,380,7,36,Normal,Respiratory Disorder
+8400,77,14,132/85,360,8,37,Abnormal,Hypertension
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hyperthyroidism
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hyperthyroidism
+7800,76,15,128/84,320,7,37,Normal,Hyperthyroidism
+8600,82,16,130/85,370,8,37,Normal,Hyperthyroidism
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hyperthyroidism
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Hypertension
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8100,76,14,122/78,340,7,37,Normal,Hyperthyroidism
+8200,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9100,83,16,130/85,370,8,37,Normal,Hyperthyroidism
+7800,79,14,125/82,320,7,37,Abnormal,Diabetes
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Hyperthyroidism
+8300,74,15,128/84,330,7,37,Normal,Hyperthyroidism
+8500,82,16,130/85,370,8,37,Normal,Hyperthyroidism
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hyperthyroidism
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Cardiovascular Disease
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Cardiovascular Disease
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hypertension
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Hypertension
+9300,81,15,125/82,380,7,36,Normal,Respiratory Disorder
+8400,77,14,132/85,360,8,37,Abnormal,Hypertension
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hyperthyroidism
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hyperthyroidism
+7800,76,15,128/84,320,7,37,Normal,Hyperthyroidism
+8600,82,16,130/85,370,8,37,Normal,Hyperthyroidism
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hyperthyroidism
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Hypertension
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8200,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9100,83,16,130/85,370,8,37,Normal,Hyperthyroidism
+7800,79,14,125/82,320,7,37,Abnormal,Diabetes
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Hyperthyroidism
+8300,74,15,128/84,330,7,37,Normal,Hyperthyroidism
+8500,82,16,130/85,370,8,37,Normal,Hyperthyroidism
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hyperthyroidism
+8900,79,14,135/88,370,8,37,Abnormal,Respiratory Disorder
+9300,81,15,125/82,380,7,36,Normal,Diabetes
+8400,77,14,132/85,360,8,37,Abnormal,Cardiovascular Disease
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hypertension
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hypertension
+7800,76,15,128/84,320,7,37,Normal,Diabetes
+8600,82,16,130/85,370,8,37,Normal,Respiratory Disorder
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hypertension
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Diabetes
+8200,75,15,128/84,330,7,37,Normal,Cardiovascular Disease
+9100,83,16,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8300,74,15,128/84,330,7,37,Normal,Respiratory Disorder
+8500,82,16,130/85,370,8,37,Normal,Diabetes
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hypertension
+8200,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+8900,76,15,128/84,330,7,37,Normal,Hypertension
+7300,83,16,130/85,370,8,37,Normal,Hypertension
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Hypertension
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Hypertension
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hyperthyroidism
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Respiratory Disorder
+9300,81,15,125/82,380,7,36,Normal,Diabetes
+8400,77,14,132/85,360,8,37,Abnormal,Cardiovascular Disease
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hypertension
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hypertension
+7800,76,15,128/84,320,7,37,Normal,Diabetes
+8600,82,16,130/85,370,8,37,Normal,Respiratory Disorder
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hypertension
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Diabetes
+8200,75,15,128/84,330,7,37,Normal,Cardiovascular Disease
+9100,83,16,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8300,74,15,128/84,330,7,37,Normal,Respiratory Disorder
+8500,82,16,130/85,370,8,37,Normal,Diabetes
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hypertension
+8200,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+8900,76,15,128/84,330,7,37,Normal,Hypertension
+7300,83,16,130/85,370,8,37,Normal,Hypertension
+8400,75,14,130/86,350,7,37,Abnormal,Cardiovascular Disease
+8300,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+9100,82,15,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8200,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8600,74,15,130/86,330,7,37,Normal,Hyperthyroidism
+7800,79,16,125/82,320,7,37,Abnormal,Respiratory Disorder
+7500,83,15,128/84,330,7,37,Normal,Hypertension
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Hypertension
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Hypertension
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hyperthyroidism
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Respiratory Disorder
+9300,81,15,125/82,380,7,36,Normal,Diabetes
+8400,77,14,132/85,360,8,37,Abnormal,Cardiovascular Disease
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hypertension
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hypertension
+7800,76,15,128/84,320,7,37,Normal,Diabetes
+8600,82,16,130/85,370,8,37,Normal,Respiratory Disorder
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hypertension
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Diabetes
+8200,75,15,128/84,330,7,37,Normal,Cardiovascular Disease
+9100,83,16,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8300,74,15,128/84,330,7,37,Normal,Respiratory Disorder
+8500,82,16,130/85,370,8,37,Normal,Diabetes
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hypertension
+8200,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+8900,76,15,128/84,330,7,37,Normal,Hypertension
+7300,83,16,130/85,370,8,37,Normal,Hypertension
+8400,75,14,130/86,350,7,37,Abnormal,Cardiovascular Disease
+8300,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+9100,82,15,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8200,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8600,74,15,130/86,330,7,37,Normal,Hyperthyroidism
+7800,79,16,125/82,320,7,37,Abnormal,Respiratory Disorder
+7500,83,15,128/84,330,7,37,Normal,Hypertension
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Hypertension
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Hypertension
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hyperthyroidism
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Respiratory Disorder
+9300,81,15,125/82,380,7,36,Normal,Diabetes
+8400,77,14,132/85,360,8,37,Abnormal,Cardiovascular Disease
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hypertension
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hypertension
+7800,76,15,128/84,320,7,37,Normal,Diabetes
+8600,82,16,130/85,370,8,37,Normal,Respiratory Disorder
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hypertension
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Diabetes
+8200,75,15,128/84,330,7,37,Normal,Cardiovascular Disease
+9100,83,16,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8300,74,15,128/84,330,7,37,Normal,Respiratory Disorder
+8500,82,16,130/85,370,8,37,Normal,Diabetes
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hypertension
+8200,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+8900,76,15,128/84,330,7,37,Normal,Hypertension
+7300,83,16,130/85,370,8,37,Normal,Hypertension
+8400,75,14,130/86,350,7,37,Abnormal,Cardiovascular Disease
+8300,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+9100,82,15,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8200,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8600,74,15,130/86,330,7,37,Normal,Hyperthyroidism
+7800,79,16,125/82,320,7,37,Abnormal,Respiratory Disorder
+7500,83,15,128/84,330,7,37,Normal,Hypertension
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Hypertension
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Hypertension
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hyperthyroidism
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Respiratory Disorder
+9300,81,15,125/82,380,7,36,Normal,Diabetes
+8400,77,14,132/85,360,8,37,Abnormal,Cardiovascular Disease
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hypertension
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hypertension
+7800,76,15,128/84,320,7,37,Normal,Diabetes
+8600,82,16,130/85,370,8,37,Normal,Respiratory Disorder
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hypertension
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Diabetes
+8200,75,15,128/84,330,7,37,Normal,Cardiovascular Disease
+9100,83,16,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8300,74,15,128/84,330,7,37,Normal,Respiratory Disorder
+8500,82,16,130/85,370,8,37,Normal,Diabetes
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hypertension
+8200,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+8900,76,15,128/84,330,7,37,Normal,Hypertension
+7300,83,16,130/85,370,8,37,Normal,Hypertension
+8400,75,14,130/86,350,7,37,Abnormal,Cardiovascular Disease
+8300,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+9100,82,15,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8200,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8600,74,15,130/86,330,7,37,Normal,Hyperthyroidism
+7800,79,16,125/82,320,7,37,Abnormal,Respiratory Disorder
+7500,83,15,128/84,330,7,37,Normal,Hypertension
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Hypertension
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Hypertension
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hyperthyroidism
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Respiratory Disorder
+9300,81,15,125/82,380,7,36,Normal,Diabetes
+8400,77,14,132/85,360,8,37,Abnormal,Cardiovascular Disease
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hypertension
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hypertension
+7800,76,15,128/84,320,7,37,Normal,Diabetes
+8600,82,16,130/85,370,8,37,Normal,Respiratory Disorder
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hypertension
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Diabetes
+8200,75,15,128/84,330,7,37,Normal,Cardiovascular Disease
+9100,83,16,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8300,74,15,128/84,330,7,37,Normal,Respiratory Disorder
+8500,82,16,130/85,370,8,37,Normal,Diabetes
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hypertension
+8200,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+8900,76,15,128/84,330,7,37,Normal,Hypertension
+7300,83,16,130/85,370,8,37,Normal,Hypertension
+8400,75,14,130/86,350,7,37,Abnormal,Cardiovascular Disease
+8300,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+9100,82,15,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8200,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8600,74,15,130/86,330,7,37,Normal,Hyperthyroidism
+7800,79,16,125/82,320,7,37,Abnormal,Respiratory Disorder
+7500,83,15,128/84,330,7,37,Normal,Hypertension
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Hypertension
+6000,80,16,122/78,320,6,37,Abnormal,Diabetes
+8500,78,14,125/82,340,7,36,Normal,Hypertension
+10000,85,16,118/75,380,8,37,Normal,Respiratory Disorder
+7500,70,15,130/85,320,7,37,Abnormal,Hyperthyroidism
+9200,82,14,120/78,360,8,36,Normal,Diabetes
+8800,77,15,135/88,350,8,37,Abnormal,Cardiovascular Disease
+9500,90,16,122/80,400,8,36,Normal,Respiratory Disorder
+8200,73,14,128/84,330,7,37,Normal,Hyperthyroidism
+7100,78,15,132/86,300,7,37,Normal,Diabetes
+8300,76,14,125/80,350,8,37,Normal,Respiratory Disorder
+7200,74,15,130/84,310,7,37,Normal,Hyperthyroidism
+9800,85,16,118/76,400,8,36,Normal,Cardiovascular Disease
+8900,79,14,135/88,370,8,37,Abnormal,Respiratory Disorder
+9300,81,15,125/82,380,7,36,Normal,Diabetes
+8400,77,14,132/85,360,8,37,Abnormal,Cardiovascular Disease
+7600,75,15,128/84,330,7,37,Normal,Hyperthyroidism
+9200,83,14,130/86,380,8,37,Normal,Hypertension
+8700,80,16,125/80,370,8,37,Abnormal,Cardiovascular Disease
+8100,78,14,122/78,340,7,37,Normal,Hypertension
+7800,76,15,128/84,320,7,37,Normal,Diabetes
+8600,82,16,130/85,370,8,37,Normal,Respiratory Disorder
+9100,84,14,125/82,390,8,37,Normal,Hyperthyroidism
+7200,70,15,128/84,310,7,37,Normal,Hypertension
+9300,80,16,130/86,380,8,37,Abnormal,Cardiovascular Disease
+8800,78,14,125/80,350,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Diabetes
+8200,75,15,128/84,330,7,37,Normal,Cardiovascular Disease
+9100,83,16,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8300,74,15,128/84,330,7,37,Normal,Respiratory Disorder
+8500,82,16,130/85,370,8,37,Normal,Diabetes
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hypertension
+8200,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+8900,76,15,128/84,330,7,37,Normal,Hypertension
+7300,83,16,130/85,370,8,37,Normal,Hypertension
+8400,75,14,130/86,350,7,37,Abnormal,Cardiovascular Disease
+8300,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+9100,82,15,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8200,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8600,74,15,130/86,330,7,37,Normal,Hyperthyroidism
+7800,79,16,125/82,320,7,37,Abnormal,Respiratory Disorder
+7500,83,15,128/84,330,7,37,Normal,Hypertension
+8000,75,14,120/80,300,7,37,Normal,Cardiovascular Disease
+7000,72,15,118/76,280,6,36,Normal,Hypertension
+4500,72,14,120/82,300,6,38,Normal,Fever
+7500,72,14,121/82,350,7,39,Normal,High Fever
+5500,71,14,120/82,380,6,39,Normal,High Fever
+4500,72,14,120/82,300,6,38,Normal,Fever
+4500,70,15,119/80,280,9,40,Normal,High Fever
+5500,72,14,120/85,300,8,38,AbNormal,Fever
+4500,70,12,135/86,200,7,38,Normal,Fever
+2500,74,16,135/90,300,6,37,Normal,Hypertension
+4500,72,14,120/82,300,6,38,Normal,Fever
+2500,70,15,120/80,350,10,38,Normal,Fever
+8800,78,14,125/80,350,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Diabetes
+8200,75,15,128/84,330,7,37,Normal,Cardiovascular Disease
+9100,83,16,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8400,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8300,74,15,128/84,330,7,37,Normal,Respiratory Disorder
+8500,82,16,130/85,370,8,37,Normal,Diabetes
+7200,80,14,125/82,390,8,37,Abnormal,Cardiovascular Disease
+7400,74,15,135/88,320,7,37,Normal,Hypertension
+8200,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+8900,76,15,128/84,330,7,37,Normal,Hypertension
+7300,83,16,130/85,370,8,37,Normal,Hypertension
+8400,75,14,130/86,350,7,37,Abnormal,Cardiovascular Disease
+8300,78,14,122/78,340,7,37,Normal,Respiratory Disorder
+9100,82,15,130/85,370,8,37,Normal,Hypertension
+7800,79,14,125/82,320,7,37,Abnormal,Respiratory Disorder
+7400,72,15,135/88,320,7,37,Normal,Hyperthyroidism
+8200,76,14,122/78,340,7,37,Normal,Cardiovascular Disease
+8600,74,15,130/86,330,7,37,Normal,Hyperthyroidism
+7800,79,16,125/82,320,7,37,Abnormal,Respiratory Disorder
+7500,83,15,128/84,330,7,37,Normal,Hypertension
+5000,68,13,110/70,250,6,36,Normal,Hypertension
+7500,80,17,128/82,320,7,37,Normal,Cardiovascular Disease
+4500,65,12,105/65,220,5,36,Abnormal,Healthy
+8200,75,16,122/78,340,8,37,Normal,Diabetes
+5800,70,14,115/75,270,6,36,Normal,Hypertension
+6800,78,15,120/80,290,6,37,Abnormal,Respiratory Disorder
+7300,85,18,130/85,310,7,37,Normal,Hyperthyroidism
+4000,60,11,100/60,200,5,36,Normal,Healthy
+8500,88,19,135/88,350,8,37,Normal,Diabetes
+5200,72,14,112/72,260,6,36,Normal,Hypertension
+6000,74,15,118/76,280,6,36,Abnormal,Cardiovascular Disease
+7000,79,16,125/82,300,7,37,Normal,Diabetes
+4800,67,13,108/68,240,5,36,Normal,Hypertension
+7700,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7300,80,16,122/78,320,7,37,Normal,Hyperthyroidism
+5100,71,14,114/74,270,6,36,Normal,Diabetes
+8800,90,20,140/90,380,8,38,Abnormal,Cardiovascular Disease
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7100,78,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+4800,66,13,107/67,230,5,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6100,75,15,118/76,290,6,36,Abnormal,Cardiovascular Disease
+6900,80,16,123/79,300,7,37,Normal,Diabetes
+4700,68,13,109/69,250,5,36,Normal,Hypertension
+7800,83,18,128/82,340,7,37,Abnormal,Respiratory Disorder
+7400,82,16,124/80,330,7,37,Normal,Hyperthyroidism
+4400,63,12,102/62,210,5,36,Normal,Healthy
+8700,90,20,137/88,370,8,38,Normal,Diabetes
+5500,73,14,116/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,72,14,114/74,270,6,36,Normal,Hypertension
+6100,75,15,118/76,290,6,36,Abnormal,Cardiovascular Disease
+7000,79,16,125/82,300,7,37,Normal,Diabetes
+4800,67,13,108/68,240,5,36,Normal,Hypertension
+7700,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7300,80,16,122/78,320,7,37,Normal,Hyperthyroidism
+5100,71,14,114/74,270,6,36,Normal,Diabetes
+8800,90,20,140/90,380,8,38,Abnormal,Cardiovascular Disease
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7100,78,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+4800,66,13,107/67,230,5,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,72,14,114/74,270,6,36,Normal,Hypertension
+6100,75,15,118/76,290,6,36,Abnormal,Cardiovascular Disease
+7000,79,16,125/82,300,7,37,Normal,Diabetes
+4800,67,13,108/68,240,5,36,Normal,Hypertension
+7700,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7300,80,16,122/78,320,7,37,Normal,Hyperthyroidism
+5100,71,14,114/74,270,6,36,Normal,Diabetes
+8800,90,20,140/90,380,8,38,Abnormal,Cardiovascular Disease
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7100,78,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+4800,66,13,107/67,230,5,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,72,14,114/74,270,6,36,Normal,Hypertension
+6100,75,15,118/76,290,6,36,Abnormal,Cardiovascular Disease
+7000,79,16,125/82,300,7,37,Normal,Diabetes
+4800,67,13,108/68,240,5,36,Normal,Hypertension
+7700,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7300,80,16,122/78,320,7,37,Normal,Hyperthyroidism
+5100,71,14,114/74,270,6,36,Normal,Diabetes
+8800,90,20,140/90,380,8,38,Abnormal,Cardiovascular Disease
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7100,78,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+4800,66,13,107/67,230,5,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,72,14,114/74,270,6,36,Normal,Hypertension
+6100,75,15,118/76,290,6,36,Abnormal,Cardiovascular Disease
+7000,79,16,125/82,300,7,37,Normal,Diabetes
+4800,67,13,108/68,240,5,36,Normal,Hypertension
+7700,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7300,80,16,122/78,320,7,37,Normal,Hyperthyroidism
+5100,71,14,114/74,270,6,36,Normal,Diabetes
+8800,90,20,140/90,380,8,38,Abnormal,Cardiovascular Disease
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7100,78,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+4800,66,13,107/67,230,5,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7100,78,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+4800,66,13,107/67,230,5,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,72,14,114/74,270,6,36,Normal,Hypertension
+6100,75,15,118/76,290,6,36,Abnormal,Cardiovascular Disease
+7000,79,16,125/82,300,7,37,Normal,Diabetes
+4800,67,13,108/68,240,5,36,Normal,Hypertension
+7700,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7300,80,16,122/78,320,7,37,Normal,Hyperthyroidism
+5100,71,14,114/74,270,6,36,Normal,Diabetes
+8800,90,20,140/90,380,8,38,Abnormal,Cardiovascular Disease
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes
+7100,79,16,124/80,310,7,37,Abnormal,Cardiovascular Disease
+5700,69,13,112/72,260,6,36,Normal,Hypertension
+7800,82,17,126/80,330,7,37,Abnormal,Respiratory Disorder
+7400,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4300,64,12,104/64,220,5,36,Normal,Healthy
+8600,88,19,133/86,360,8,37,Normal,Diabetes
+5300,72,14,114/74,270,6,36,Normal,Hypertension
+6200,76,15,120/78,290,7,37,Abnormal,Hyperthyroidism
+7100,79,16,123/79,310,7,37,Normal,Diabetes
+4900,67,13,107/67,240,5,36,Normal,Hypertension
+8000,82,17,127/81,330,7,37,Abnormal,Respiratory Disorder
+7500,83,17,128/82,340,7,37,Normal,Hyperthyroidism
+4500,63,12,102/62,220,5,36,Normal,Healthy
+8700,88,19,134/87,360,8,37,Normal,Diabetes
+5400,73,14,116/74,270,6,37,Normal,Hypertension
+6300,76,15,121/79,290,6,37,Normal,Hyperthyroidism
+4200,62,12,103/63,210,5,36,Normal,Healthy
+8000,85,18,130/85,340,8,37,Normal,Diabetes

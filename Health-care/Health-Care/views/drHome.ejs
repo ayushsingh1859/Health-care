@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home Page</title>
+  <!-- <link rel="stylesheet" href="/drHome.css"> -->
+  <link rel="stylesheet" href="/patientHome.css">
+  <link rel="stylesheet" href="/patientAppointment.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+</head>
+<body>
+  
+  <header class="header">
+
+    <a href="#" class="logo"> <i class="fas fa-heartbeat"></i> <strong>Welcome Dr. <%= doctorName %></strong> </a>
+
+
+    <!-- NAVBAR -->
+    <nav class="navbar" style="display: flex;">
+      
+
+      <div class="dropdown">
+        <a href="">Profile</a>
+        <div class="dropdown-content">
+          <a href="/doctor/drProfile" > My Profile</a>
+          <a href="/doctor/logout">Log Out</a>
+        </div>
+      </div>
+     
+    </nav>
+    
+
+    <div id="menu-btn" class="fas fa-bars"></div>
+
+</header>
+
+
+<!-- CARDS -->
+<div class="appointment-container">
+  <% let a = 1; %>
+  <% patientappointments.forEach(appointment => { %>
+      <div class="card">
+          <h1><strong>Appointment <%= a %></strong></h1>
+          <p class="card-content">Patient Name : <%= appointment.name %></p>
+          <p class="card-content">Patient Email : <%= appointment.email %></p>
+          <p class="card-content">Patient Number : <%= appointment.number %></p>
+          <p class="card-content">Appointment Date : <%= appointment.date %></p>
+          <p class="card-content">Appointment Time : <%= appointment.time %></p>
+      </div>
+      <% a++ %>
+  <% }) %>
+</div>
+
+
+  
+
+
+  
+
+</body>
+
+
+</html>

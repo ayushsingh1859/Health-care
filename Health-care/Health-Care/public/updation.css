@@ -1,0 +1,105 @@
+/* styles.css */
+
+/* Resetting default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-box {
+    padding: 20px;
+  }
+  
+  .heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-section {
+    margin-bottom: 30px;
+  }
+  
+  .container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .input-field {
+    width: calc(50% - 10px);
+    margin-bottom: 20px;
+  }
+  
+  .input-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input-field input,
+  .input-field select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .input-field input[type="file"] {
+    border: none;
+    padding: 0;
+  }
+  
+  .input-field input[type="file"]:focus {
+    outline: none;
+  }
+  
+  .submit-container {
+    text-align: center;
+  }
+  
+  .input-field button[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .input-field button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Responsive adjustments */
+  @media only screen and (max-width: 768px) {
+    .input-field {
+        width: calc(50% - 10px);
+    }
+  
+    .input-field:last-child {
+        width: 100%;
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .input-field {
+        width: 100%;
+    }
+  }
+  

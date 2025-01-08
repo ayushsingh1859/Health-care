@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Appointment</title>
+  <link rel="stylesheet" href="/patientAppointment.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+ 
+  
+</head>
+<body>
+  
+  <header class="header">
+
+    <a href="#" class="logo"> <i class="fas fa-heartbeat"></i> <strong>Welcome <%= patientName %></strong> </a>
+
+
+    <!-- NAVBAR -->
+    <nav class="navbar" style="display: flex;">
+      
+      <div class="dropdown">
+
+        <a href="#profile" style="display: flex; justify-content: center; align-items : center; "> MyProfile</a>
+
+        <div class="dropdown-content">
+          <a href="/patient/patientProfile">My Profile</a>
+          <a href="/patient/logout">Log Out</a>
+        </div>
+      </div>
+     
+    </nav>
+    
+
+    <div id="menu-btn" class="fas fa-bars"></div>
+
+</header>
+
+
+<!-- MAIN PART -->
+<div class="appointment-container">
+ 
+  <% patientappointments.forEach(appointment => { %>
+      <div class="card">
+          <h1><strong> Your Appointment </strong></h1>
+          <p class="card-content">Patient Name : <%= appointment.name %></p>
+          <p class="card-content">Patient Email : <%= appointment.email %></p>
+          <p class="card-content">Patient Number : <%= appointment.number %></p>
+          <p class="card-content">Appointment Date : <%= appointment.date %></p>
+          <p class="card-content">Appointment Time : <%= appointment.time %></p>
+      </div>
+  <% }) %>
+  
+</div>
+
+
+
+
+  </div>
+
+  <script>
+    // Define an array of doctor names
+    const doctorNames = ["Dr. Smith", "Dr. Johnson", "Dr. Williams", "Dr. Brown", "Dr. Jones", "Dr. Garcia", "Dr. Miller", "Dr. Davis", "Dr. Rodriguez", "Dr. Martinez"];
+    
+    // Select a random index from 0 to 9 (since there are 10 doctors)
+    const randomIndex = Math.floor(Math.random() * doctorNames.length);
+    
+    // Get the random doctor name using the random index
+    const randomDoctor = doctorNames[randomIndex];
+    
+    // Display the random doctor name
+    document.getElementById('randomDoctor').textContent = randomDoctor;
+    </script>
+
+</body>
+</html>
